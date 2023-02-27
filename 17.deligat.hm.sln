@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.deligat.hm", "17.deligat.hm\17.deligat.hm.csproj", "{DAF0EECD-3F7E-4A12-919E-A4E70D85325E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF0EECD-3F7E-4A12-919E-A4E70D85325E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF0EECD-3F7E-4A12-919E-A4E70D85325E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF0EECD-3F7E-4A12-919E-A4E70D85325E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF0EECD-3F7E-4A12-919E-A4E70D85325E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D31E503-A95E-41FE-AA74-E1E914E8AD10}
+	EndGlobalSection
+EndGlobal
